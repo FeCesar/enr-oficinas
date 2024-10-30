@@ -8,7 +8,7 @@ class EnrApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Integer number = 1;
+		Integer number = 0;
 	}
 
 }
